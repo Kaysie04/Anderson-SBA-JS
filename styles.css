@@ -1,0 +1,129 @@
+body{
+    
+    background-color: #bb90a5;
+}
+
+.navbar-brand{
+    font-family: 'Advent Pro';
+    color: #036264;
+    font-size: 35px;  
+}
+.nav-link{
+    color: #036264;
+    font-family: 'Advent Pro';
+}
+
+.navbar{
+    background-color:#dac4d0;
+    border: 2px solid #036264;
+    margin-bottom: 80px;
+
+}
+
+.jumbotron{
+    background-color:#dac4d0;
+    color: #036264;
+    border: 2px solid #036264;
+    
+}
+
+.jumbotron h1{
+
+    font-family: 'Advent Pro';
+    font-size: 50px;
+}
+
+.jumbotron p{
+    font-family: 'Advent Pro';
+
+}
+
+#subheader{
+    font-size:22px;
+}
+
+.card-signin{
+    background-color: #dac4d0;
+    color:#036264;
+    font-family: 'Advent Pro';
+    /*box-shadow: 5px 5px 5px 5px black;*/
+    border: 2px solid #036264;
+    border-radius: 15px;
+}
+
+.form-control{
+    background-color:#dfecea;
+}
+
+#createAcctBtn{
+    background-color: #bb90a6;
+    color:#036264;
+}
+
+.nav-item div a:hover{
+    background-color: white; 
+    color:#036264;
+}
+.nav-item div a{
+    font-family: 'Advent Pro'; 
+    color:#036264;  
+}
+
+.dropdown-menu{
+    background-color: #dfecea;
+    font-family: 'Advent Pro';
+}
+
+.dropdown-divider{
+    background-color:#036264; 
+    
+}
+
+#createJournalBtn{
+    background-color: #bb90a6;
+    color:#036264;
+    border: 2px solid #036264;
+}
+
+#dateSection{
+    color:#036264;
+}
+
+#loginBtn{
+    background-color: #bb90a6;
+    color:#036264;
+    border: 2px solid #036264;
+
+}
+
+#createAcctBtn{
+    background-color: #bb90a6;
+    color:#036264;
+    border: 2px solid #036264;
+
+}
+
+.journal-entry-display{
+    list-style-type: none;
+    border: 2px solid #036264;
+    background-color: #dfecea;
+    width: 50%;
+    border-radius: 15px;
+    color:#036264;
+    margin-left:300px;
+
+
+      
+}
+
+.journal-entry-display li {
+    list-style-type: none;    
+}
+
+
+
+
+
+
+
+
