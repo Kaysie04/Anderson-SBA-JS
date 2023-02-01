@@ -34,7 +34,7 @@ SO THAT I can mentally a spiritually grow.
 💾 Git clone the repo onto your local machine and open web browser from homepage.html
 
 ## Screenshot
-![Node Image](/client/public/readmeimg.png)
+![Node Image](/assets/img/img-journal.png)
 
 ## Contributing
 
