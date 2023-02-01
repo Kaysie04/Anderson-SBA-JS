@@ -8,7 +8,6 @@
 - [Description](#Description)
 - [Technologies](#Technologies)
 - [Installation](#Installation)
-- [Screenshot](#Screenshot)
 - [Contributing](#Contributing)
 
 
@@ -32,9 +31,6 @@ SO THAT I can mentally a spiritually grow.
 
 ## Installation 
 💾 Git clone the repo onto your local machine and open web browser from homepage.html
-
-## Screenshot
-![Node Image](/assets/img/img-journal.png)
 
 ## Contributing
 
